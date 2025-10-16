@@ -4,7 +4,7 @@
 ## 🧠 Role: University Professor, Political Theorist  
 ## 🏙️ Domain: Curitiba by Night (UFPR region)  
 ## 🧍 Gender: Female  
-## 📅 Embrace: Late 1990s  
+## 📅 Embrace: December 1998  
 ## 🩸 Predator Type: Scene Siren  
 
 ---
@@ -19,22 +19,27 @@
 
 ---
 
-## 🩸 Embrace & Sire
+## 🩸 Embrace Story
 
-- During a protest in the late 1990s, Helena was **trampled by police horses**, suffering near-fatal injuries.
-- Her sire — a legendary Brujah elder and **former Prince of Curitiba** — fed her vitae to save her, beginning a slow Ghoul bond.
-- Over time, Helena deduced his true nature and was eventually Embraced as a **partner in revolution**.
-- Her sire was renowned for **purging Sabbat forces** from Curitiba and aiding São Paulo’s Camarilla consolidation.
-- He was **killed in the early 2000s**, allegedly by Sabbat — but the hidden truth is that the **Baron of Almirante Tamandaré**, an Anarch, orchestrated the ambush to seize power.
+- During a protest in December 1998, Helena was **trampled by police horses**, suffering near-fatal injuries.
+- A Brujah elder — then **Sheriff of Curitiba** and unofficial right hand to the Prince — **fed her vitae to save her**, beginning a slow Ghoul bond.
+- Their meetings became regular: monthly, then weekly. They debated politics, philosophy, and Kindred society.
+- Helena, perceptive and sharp, **deduced his true nature** without being told.
+- Over time, he saw in her a kindred spirit — someone who shared his ideals and fire.
+- She was eventually Embraced — not as a pawn, but as a **partner in revolution**.
 
 ---
 
 ## ⚔️ Legacy & Relationships
 
+- Her sire was a **respected enforcer and strategist**, known for purging Sabbat remnants and aiding São Paulo’s Camarilla consolidation.
+- He was **acting on the Prince’s behalf** when he was ambushed and killed near the city outskirts in the early 2000s.
+- There were **no survivors** — the truth of what happened remains a mystery.
+- Rumors swirl:
+  - Some say the **Prince ordered the hit**, fearing his growing influence.
+  - Others claim the **ambush was meant for the Prince**, and Helena’s sire took the fall.
 - Helena and the current Prince share a **bond of mutual respect**, forged during the Camarilla–Sabbat war.
-- Her sire and the Prince were part of a **legendary coterie** responsible for the **“Longest Night”**, when dozens of Kindred and ghouls died in a final Sabbat assault.
-- The Prince offered Helena a **Primogen seat** precisely because she didn’t seek it — a gesture of trust and recognition.
-- Only a few Kindred (possibly Nosferatu) know the **true cause of her sire’s death**.
+- The Prince offered Helena a **Primogen seat** precisely because she didn’t seek it — a gesture of trust and remembrance.
 
 ---
 
@@ -70,7 +75,7 @@
 
 ## 🧠 Story Hooks
 
-- Investigates her sire’s death — uncovering **Anarch betrayal** and political manipulation
+- Investigates her sire’s death — uncovering **Anarch betrayal**, political manipulation, or Prince secrets
 - Debates a **Lasombra defector** in public — and wins
 - Discovers a **lost Sabbat manifesto** — and questions its truth
 - Offered a **Primogen seat** — and must decide whether to accept power or remain a voice of dissent
