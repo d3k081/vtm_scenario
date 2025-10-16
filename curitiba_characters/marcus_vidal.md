@@ -1,9 +1,9 @@
-# 🧛 Character Profile: Marcus Vidal — The Fallen Prince
+# 🧛 Character Profile: Marcus Vidal — The Prince’s Blade
 
 ## 🧬 Clan: Brujah  
-## 🏙️ Former Domain: Prince of Curitiba  
 ## 📅 Embrace: Late 1940s  
-## ☠️ Final Death: Early 2000s (ambushed near city outskirts)  
+## ☠️ Final Death(???): Early 2000s (ambushed near city outskirts)  
+## 🩸 Role: Former Sheriff of Curitiba, informal right hand to the Prince  
 
 ---
 
@@ -15,12 +15,13 @@
 
 ---
 
-## ⚔️ Kindred Legacy
+## ⚔️ Kindred Career
 
 - Rose to prominence during the **Camarilla–Sabbat war** of the 1970s–80s.
-- Formed a **legendary coterie** with the current Prince and two other Kindred — together they led the defense of Curitiba during the **“Longest Night”**, purging Sabbat forces in a brutal urban battle.
-- Became **Prince of Curitiba** in the late 1980s, a rare feat for a Brujah — respected by all clans for his tactical brilliance and personal sacrifice.
-- Played a key role in helping **São Paulo consolidate Camarilla control**, earning favor with Tremere Prince Alessandra and Gangrel Sheriff Cleiton.
+- Fought alongside the current Prince in a **legendary coterie**, responsible for the infamous **“Longest Night”**, when dozens of Kindred and ghouls died in a final Sabbat assault.
+- Served as **Sheriff of Curitiba**, leading tactical strikes and purges against Sabbat forces.
+- Though never officially Prince, Marcus was widely seen as the **Prince’s blade** — his most trusted field commander and confidant.
+- His influence sometimes **overshadowed the official Seneschal**, creating quiet tension within the Court.
 
 ---
 
@@ -33,21 +34,15 @@
 
 ---
 
-## ☠️ Final Death & Hidden Truth
+## ☠️ Final Death & Mystery
 
-- Official story: **Ambushed by Sabbat pack** while negotiating peace near the city outskirts.
-- Hidden truth: **Baron of Almirante Tamandaré**, an Anarch, orchestrated the attack to destabilize the domain and rise to power.
-- Only a few Kindred (possibly Nosferatu) know the truth.
-- His death left a **power vacuum**, filled by his former coterie ally — now the Prince.
-
----
-
-## 🤝 Relationship with the Current Prince
-
-- Fought side-by-side during the war; their bond was forged in blood and fire.
-- The Prince **respected Marcus deeply**, and still honors his legacy.
-- Helena Rocha, Marcus’s childe, was offered a **Primogen seat** as a gesture of loyalty and remembrance.
-- The Prince sees Helena as a **moral compass** — someone who reminds him of the ideals they once fought for.
+- Killed in the early 2000s while **acting on the Prince’s behalf**, negotiating or consolidating peace near the city outskirts.
+- **No survivors** — the truth of what happened remains unknown.
+- Rumors swirl:
+  - Some say the **Prince ordered the hit**, fearing Marcus’s growing influence.
+  - Others claim the **ambush was meant for the Prince**, and Marcus took the fall.
+  - A few whisper that the **Baron of Almirante Tamandaré**, an Anarch, orchestrated the attack to destabilize the domain and rise to power.
+- Only a handful of Kindred (possibly Nosferatu) know fragments of the truth.
 
 ---
 
