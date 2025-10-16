@@ -29,10 +29,20 @@
 
 ---
 
+## ⚔️ Legacy & Relationships
+
+- Her sire (Brujah elder) was part of a **legendary coterie** that fought alongside the current Prince during the **Camarilla–Sabbat war**.
+- They were responsible for the infamous **“Longest Night”**, when a final Sabbat assault left dozens of bodies across Curitiba — mortals, ghouls, and Kindred alike.
+- Her sire was **killed in the early 2000s**, ambushed by a Sabbat pack on the city’s outskirts.
+- Helena and the Prince share a **bond of mutual respect**, forged in shared grief and revolutionary ideals.
+- The Prince offered her a **Primogen seat** precisely because she didn’t seek it — a gesture of trust and recognition.
+
+---
+
 ## 🔥 Personality & Ideals
 
 - **Disciplined firebrand** — prefers words, but will fight if ideals are threatened.
-- **Radical reformist** — believes the Camarilla is stagnant, but sees the Sabbat as destructive.
+- **Radical reformist** — believes the Camarilla is stagnant, but sees the Sabbat as nihilistic.
 - **Anarch sympathizer**, but refuses blind allegiance.
 - **Seeks truth and justice**, even if it means confronting elders or risking exile.
 - **Haunted by her father’s disappearance**, which fuels her fight against authoritarianism.
@@ -44,24 +54,23 @@
 - High **Intelligence**, **Resolve**, and **Charisma**
 - Skilled in **Academics**, **Politics**, **Persuasion**, and **Brawl**
 - Uses **Presence** to sway minds, **Celerity** when words fail
-- Keeps a **library of forbidden texts**, including Kindred manifestos and mortal revolutionary theory
+- Keeps a **private archive** of revolutionary texts, Kindred history, and mortal resistance movements
 
 ---
 
-## 🏛️ Territory & Influence
+## 🏛️ Role in the Domain
 
 - Operates near **UFPR and Alto da XV**
-- Holds **night salons** for Kindred, ghouls, and select mortals
-- Monitored by the Prince — seen as a potential agitator
+- Avoids public gatherings — prefers **one-on-one debates**, lectures, and quiet influence
+- Monitored by the Prince — not as a threat, but as a conscience
 - Respected by younger Kindred and feared by conservative elders
 
 ---
 
 ## 🧠 Story Hooks
 
-- Organizes a **Kindred symposium** that draws Anarchs, Camarilla, and independents
-- Discovers a **lost Sabbat manifesto** — and questions its truth
+- Investigates her sire’s death — uncovering **Sabbat remnants** or **Ministry involvement**
 - Debates a **Lasombra defector** in public — and wins
-- Offered a **Primogen seat** — but only if she silences her radical voice
-- Begins investigating her father’s disappearance — and uncovers Kindred involvement
-
+- Discovers a **lost Sabbat manifesto** — and questions its truth
+- Offered a **Primogen seat** — and must decide whether to accept power or remain a voice of dissent
+- Begins probing her father’s disappearance — and finds **Kindred fingerprints** in the past
