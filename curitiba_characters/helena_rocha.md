@@ -32,13 +32,15 @@
 
 ## ⚔️ Legacy & Relationships
 
-- Her sire was a **respected enforcer and strategist**, known for purging Sabbat remnants and aiding São Paulo’s Camarilla consolidation.
+- Her sire (Brujah elder) was part of a **legendary coterie** that fought alongside the current Prince during the **Camarilla–Sabbat war**.
+- They were responsible for the infamous **“Longest Night”**, when a final Sabbat assault left dozens of bodies across Curitiba — mortals, ghouls, and Kindred alike.
 - He was **acting on the Prince’s behalf** when he was ambushed and killed near the city outskirts in the early 2000s.
 - There were **no survivors** — the truth of what happened remains a mystery.
 - Rumors swirl:
   - Some say the **Prince ordered the hit**, fearing his growing influence.
   - Others claim the **ambush was meant for the Prince**, and Helena’s sire took the fall.
-- Helena and the current Prince share a **bond of mutual respect**, forged during the Camarilla–Sabbat war.
+- Only a few Kindred (possibly Nosferatu) know the **true cause of her sire’s death**.
+- Helena and the current Prince share a **bond of mutual respect**, forged in shared grief and revolutionary ideals.
 - The Prince offered Helena a **Primogen seat** precisely because she didn’t seek it — a gesture of trust and remembrance.
 
 ---
