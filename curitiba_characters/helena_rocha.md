@@ -76,3 +76,8 @@
 - Offered a **Primogen seat** — and must decide whether to accept power or remain a voice of dissent
 - Begins probing her father’s disappearance — and finds **Kindred fingerprints** in the past
 
+---
+
+### 🧬 Notable Trait: "Sheriff’s Daughter"
+
+Helena is widely known as the childe of the former Sheriff — a Brujah elder who was instrumental in purging the Sabbat and maintaining order during the city's darkest nights. While some respect her for her lineage, others whisper that she’s only in the Court because of her sire’s legacy. This notoriety follows her in every Elysium, making her both **respected and resented** — a symbol of old loyalty and unresolved suspicion.
