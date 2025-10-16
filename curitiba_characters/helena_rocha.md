@@ -5,6 +5,7 @@
 ## 🏙️ Domain: Curitiba by Night (UFPR region)  
 ## 🧍 Gender: Female  
 ## 📅 Embrace: Late 1990s  
+## 🩸 Predator Type: Scene Siren  
 
 ---
 
@@ -18,24 +19,22 @@
 
 ---
 
-## 🩸 Embrace Story
+## 🩸 Embrace & Sire
 
 - During a protest in the late 1990s, Helena was **trampled by police horses**, suffering near-fatal injuries.
-- A Brujah elder — intrigued by her passion and intellect — **fed her vitae to save her**, beginning a slow Ghoul bond.
-- Over the years, their meetings became regular: monthly, then weekly.
-- Helena, perceptive and sharp, **deduced his true nature** without being told.
-- Their relationship deepened through **debates on politics, philosophy, and Kindred society**.
-- Eventually, she was Embraced — not as a pawn, but as a **partner in revolution**.
+- Her sire — a legendary Brujah elder and **former Prince of Curitiba** — fed her vitae to save her, beginning a slow Ghoul bond.
+- Over time, Helena deduced his true nature and was eventually Embraced as a **partner in revolution**.
+- Her sire was renowned for **purging Sabbat forces** from Curitiba and aiding São Paulo’s Camarilla consolidation.
+- He was **killed in the early 2000s**, allegedly by Sabbat — but the hidden truth is that the **Baron of Almirante Tamandaré**, an Anarch, orchestrated the ambush to seize power.
 
 ---
 
 ## ⚔️ Legacy & Relationships
 
-- Her sire (Brujah elder) was part of a **legendary coterie** that fought alongside the current Prince during the **Camarilla–Sabbat war**.
-- They were responsible for the infamous **“Longest Night”**, when a final Sabbat assault left dozens of bodies across Curitiba — mortals, ghouls, and Kindred alike.
-- Her sire was **killed in the early 2000s**, ambushed by a Sabbat pack on the city’s outskirts.
-- Helena and the Prince share a **bond of mutual respect**, forged in shared grief and revolutionary ideals.
-- The Prince offered her a **Primogen seat** precisely because she didn’t seek it — a gesture of trust and recognition.
+- Helena and the current Prince share a **bond of mutual respect**, forged during the Camarilla–Sabbat war.
+- Her sire and the Prince were part of a **legendary coterie** responsible for the **“Longest Night”**, when dozens of Kindred and ghouls died in a final Sabbat assault.
+- The Prince offered Helena a **Primogen seat** precisely because she didn’t seek it — a gesture of trust and recognition.
+- Only a few Kindred (possibly Nosferatu) know the **true cause of her sire’s death**.
 
 ---
 
@@ -43,8 +42,9 @@
 
 - **Disciplined firebrand** — prefers words, but will fight if ideals are threatened.
 - **Radical reformist** — believes the Camarilla is stagnant, but sees the Sabbat as nihilistic.
-- **Anarch sympathizer**, but refuses blind allegiance.
-- **Seeks truth and justice**, even if it means confronting elders or risking exile.
+- **Anarch sympathizer**, but refuses blind allegiance — sees Anarchy as a mask for new tyranny.
+- **Scene Siren** predator — attracts prey through intellect and presence, not seduction.
+- **Disdainful of “Black Boots”** — young Brujah who toy with punks and neo-nazis for feeding and violence.
 - **Haunted by her father’s disappearance**, which fuels her fight against authoritarianism.
 
 ---
@@ -55,6 +55,7 @@
 - Skilled in **Academics**, **Politics**, **Persuasion**, and **Brawl**
 - Uses **Presence** to sway minds, **Celerity** when words fail
 - Keeps a **private archive** of revolutionary texts, Kindred history, and mortal resistance movements
+- Dresses plainly, ignoring her physical beauty — her allure is intellectual and ideological
 
 ---
 
@@ -69,8 +70,9 @@
 
 ## 🧠 Story Hooks
 
-- Investigates her sire’s death — uncovering **Sabbat remnants** or **Ministry involvement**
+- Investigates her sire’s death — uncovering **Anarch betrayal** and political manipulation
 - Debates a **Lasombra defector** in public — and wins
 - Discovers a **lost Sabbat manifesto** — and questions its truth
 - Offered a **Primogen seat** — and must decide whether to accept power or remain a voice of dissent
 - Begins probing her father’s disappearance — and finds **Kindred fingerprints** in the past
+
