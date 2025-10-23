@@ -1,8 +1,9 @@
 # 🧛 Character Profile: Marcus Vidal — The Prince’s Blade
 
 ## 🧬 Clan: Brujah  
+## 🏙️ Domain: Curitiba by Night  
 ## 📅 Embrace: Late 1940s  
-## ☠️ Final Death(???): Early 2000s (ambushed near city outskirts)  
+## ☠️ Final Death: Early 2000s (ambushed near city outskirts)  
 ## 🩸 Role: Former Sheriff of Curitiba, informal right hand to the Prince  
 
 ---
@@ -18,8 +19,8 @@
 ## ⚔️ Kindred Career
 
 - Rose to prominence during the **Camarilla–Sabbat war** of the 1970s–80s.
-- Fought alongside the current Prince in a **legendary coterie**, responsible for the infamous **“Longest Night”**, when dozens of Kindred and ghouls died in a final Sabbat assault.
 - Served as **Sheriff of Curitiba**, leading tactical strikes and purges against Sabbat forces.
+- Fought alongside the current Prince in a **legendary coterie**, responsible for the infamous **“Longest Night”**, when dozens of Kindred and ghouls died in a final Sabbat assault.
 - Though never officially Prince, Marcus was widely seen as the **Prince’s blade** — his most trusted field commander and confidant.
 - His influence sometimes **overshadowed the official Seneschal**, creating quiet tension within the Court.
 
