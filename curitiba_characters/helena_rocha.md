@@ -1,11 +1,13 @@
 # 🧛 Character Profile: Prof. Helena Rocha — Brujah Philosopher
 
 ## 🧬 Clan: Brujah  
-## 🧠 Role: University Professor, Political Theorist  
-## 🏙️ Domain: Curitiba by Night (UFPR region)  
 ## 🧍 Gender: Female  
-## 📅 Embrace: December 1998  
-## 🩸 Predator Type: Scene Siren  
+## 🧠 Role: University Professor, Political Theorist , Court critic
+## Sect: Camarilla (reluctantly)
+## Generation: 10th
+## 📅 Embrace: December 1998 
+## Origin: Curitiba native 
+## 🩸 Predator Type: Scene Siren
 
 ---
 
