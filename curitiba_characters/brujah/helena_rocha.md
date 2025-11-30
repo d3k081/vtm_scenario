@@ -1,13 +1,14 @@
-# 🧛 Character Profile: Prof. Helena Rocha — Brujah Philosopher
 
-## 🧬 Clan: Brujah  
-## 🧍 Gender: Female  
-## 🧠 Role: University Professor, Political Theorist , Court critic
-## Sect: Camarilla (reluctantly)
-## Generation: 10th
-## 📅 Embrace: December 1998 
-## Origin: Curitiba native 
-## 🩸 Predator Type: Scene Siren
+### 🧛  Prof. Helena Rocha — Brujah Philosopher
+
+ - 🧬 Clan: Brujah 
+ - 🧍Gender: Female 
+ - 🧠 Role: University Professor, Political Theorist , Court critic
+ -  Sect: Camarilla (reluctantly)
+ - Generation: 10th
+ - 📅 Embrace: December 1998 
+ - Origin: Curitiba native 
+ - 🩸 Predator Type: Scene Siren
 
 ---
 

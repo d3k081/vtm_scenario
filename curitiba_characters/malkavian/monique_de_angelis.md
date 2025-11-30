@@ -1,4 +1,4 @@
-### 🩸 Monique Dal'Col — The Smiling Knife
+### 🩸 Monique De Angelis — The Smiling Knife
 
 - **Clan**: Malkavian  
 - **Gender**: Female  
@@ -14,4 +14,4 @@
 - Suffers from **Compulsive Empathy** — she absorbs and mimics others’ emotions involuntarily, often losing herself in the process.
 - A fixture at Elysium, always smiling, always watching — often seen near **Camila Popadiuk**, with whom she shares a tense rapport.
 - Occasionally blurts out **truths no one should know**, then laughs it off as “just a feeling.”
-- Suspected of **manipulating minor Court scandals** just to watch the emotional fallout.le
+- Suspected of **manipulating minor Court scandals** just to watch the emotional fallout.
